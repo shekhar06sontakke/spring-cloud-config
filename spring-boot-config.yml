@@ -1,0 +1,8 @@
+my:
+ greeting: Hello World from spring-boot-config configuration file.
+ list:
+  values: One, Two, Three
+
+app:
+ name: My App
+ description: Welcome to ${app.name}
