@@ -1,5 +1,5 @@
 my:
- greeting: Refreshing Hello World from spring-boot-config configuration file.
+ greeting: ***Refreshing Hello World from spring-boot-config configuration file.
  list:
   values: One, Two, Three
 
